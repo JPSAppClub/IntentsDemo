@@ -11,3 +11,5 @@ The important files are:
 Both can be found at **IntentsDemo/src/main/java/com/jpsappclub/intentsdemo**
 
 You'll notice in the code references to a `ListView` and an `ArrayAdapter`. These are more advanced UI elements that you don't need to worry about for right now, as they're not the main focus of this demo app, and we'll go over them in a later meeting.
+
+*Created by Michelle Ran for the JPS App Club, the app development division of CyberHawks. Contact us at cyberhawksjps@gmail.com or jpsappclub@gmail.com if you have any questions, comments, or suggestions!*
