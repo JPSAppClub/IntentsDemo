@@ -41,7 +41,6 @@ public class ContactsActivity extends AppCompatActivity {
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
-        System.out.println("on activity result");
         if (requestCode == NEW_CONTACT_REQUEST && resultCode == Activity.RESULT_OK) {
             Bundle bundle = data.getExtras();
             if (bundle != null) {
